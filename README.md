@@ -31,7 +31,7 @@
   <a href="https://www.datamarket.ai.kr/">
     <img src="./assets/tobigs.png" width="24" />
   </a>
-  <a href="https://www.datamarket.ai.kr/">TOBIG'S, Big Data & AI Union</a>
+  <a href="https://www.datamarket.ai.kr/">TOBIG'S </a> , Big Data & AI Union
 </h3>
 
 **Education Team Lead & Member** : Jul. 2025 – Jul. 2026
