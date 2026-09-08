@@ -12,10 +12,37 @@
 
 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leesangmin784@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](링크드인링크) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leesangmin784@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apstat/) 
 
 ## Experience
 
+<h3>
+  <a href="https://cai.cau.ac.kr/">
+    <img src="./assets/cai.png" width="24" />
+  </a>
+  <a href="https://cai.cau.ac.kr/">CAI Lab </a> , Chung-Ang University
+</h3>
+
+**Undergraduate Research Intern** : Jan. 2026 – Jun. 2026
+
+- Conducted research on **CLIP** and **Test-Time Adaptation**
+
+<h3>
+  <a href="https://www.datamarket.ai.kr/">
+    <img src="./assets/tobigs.png" width="24" />
+  </a>
+  <a href="https://www.datamarket.ai.kr/">TOBIG'S</a>
+</h3>
+
+**Education Team Lead & Member** : Jul. 2025 – Jul. 2026
+
+- **iPAD: Interpretable Physical Attribute-based Anomaly Detection**  
+  Designed a DINOv3–CLIP pipeline for patch-level anomaly localization and interpretable attribute prediction.
+
+- **News Video-to-Card News Generation**  
+  Built a multimodal news summarization pipeline combining speaker diarization, STT, timestamp alignment, and key-frame extraction.
+
+- Organized AI/ML educational sessions and managed the curriculum.
 
 ## Tech Stack
 
